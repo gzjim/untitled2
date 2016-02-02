@@ -1,1 +1,1 @@
-This is only an exampe.
+This is only an example.
