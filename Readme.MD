@@ -1,1 +1,1 @@
-This is only a exampe.
+This is only an exampe.
